@@ -1,5 +1,5 @@
 <h2>Hi there</h2>
-<p>My name is <strong>Jacek</strong>. I'm a <strong>Web Developer</strong> based in Berlin.
+<p>My name is <strong>Jacek</strong>. I'm a <strong>Full Stack Web Developer</strong> based in Berlin.
 
 ## You can find me on:
 
