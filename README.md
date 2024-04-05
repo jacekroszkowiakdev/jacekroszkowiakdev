@@ -3,9 +3,9 @@
 
 ## You can find me on:
 
-<a  href="https://www.linkedin.com/in/jacekroszkowiak"  rel="nofollow"> <img src="http://www.foodbanknyc.org/_gfx_/icon-linkedin.png" alt="Linkedin Icon"></a>
+<a  href="https://www.linkedin.com/in/jacekroszkowiak"  rel="nofollow"> <img src="http://www.foodbanknyc.org/_gfx_/icon-linkedin.png" alt="Linkedin"></a>
 
-<a href="https://https://www.instagram.com/jroszko" rel="nofollow"><img src="http://tazindaniels.com/wp-content/uploads/2014/10/instagram-transparent.png" alt="Instagram Icon"></a>
+<a href="https://https://www.instagram.com/jroszko" rel="nofollow"><img src="http://tazindaniels.com/wp-content/uploads/2014/10/instagram-transparent.png" alt="Instagram"></a>
 
 ## </a>Technologies &amp; Tools:</h2>
 
