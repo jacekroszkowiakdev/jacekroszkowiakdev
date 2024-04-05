@@ -5,9 +5,9 @@ I'm a versatile Software Developer with a background in Social Science, Market R
 
 ## You can find me on:
 
-<a  href="https://www.linkedin.com/in/jacekroszkowiak"  rel="nofollow"> <img src="http://www.foodbanknyc.org/_gfx_/icon-linkedin.png" alt="Linkedin"></a>
+<a  href="https://www.linkedin.com/in/jacekroszkowiak"  rel="nofollow"> <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/LinkedIN_white.png" alt="Linkedin"></a>
 
-<a href="https://https://www.instagram.com/jroszko" rel="nofollow"><img src="http://tazindaniels.com/wp-content/uploads/2014/10/instagram-transparent.png" alt="Instagram"></a>
+<a href="https://https://www.instagram.com/jroszko" rel="nofollow"><img src="[http://tazindaniels.com/wp-content/uploads/2014/10/instagram-transparent.png](https://github.com/gauravghongde/social-icons/tree/master/PNG/WhiteFins)" alt="Instagram"></a>
 
 ## </a>Technologies &amp; Tools:</h2>
 
