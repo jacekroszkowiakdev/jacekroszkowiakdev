@@ -9,7 +9,7 @@ With a background in Social Science, Market Research, Customer Acquisition, and 
 
 <a  href="https://www.linkedin.com/in/jacekroszkowiak"  rel="nofollow"> <img width="50" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/LinkedIN_white.png" alt="Linkedin"></a>
 
-<a href="https://https://www.instagram.com/jroszko" rel="nofollow"><img width="50" src="https://github.com/gauravghongde/social-icons/tree/master/PNG/WhiteFins" alt="Instagram"></a>
+<a href="https://https://www.instagram.com/jroszko" rel="nofollow"> <img width="50" src="https://github.com/gauravghongde/social-icons/tree/master/PNG/WhiteFins" alt="Instagram"></a>
 
 ## </a>Technologies &amp; Tools:</h2>
 
