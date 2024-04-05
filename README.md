@@ -1,13 +1,15 @@
 <h2>Hi there</h2>
-<p>My name is <strong>Jacek</strong>. I'm a <strong>Full Stack Web Developer</strong> based in Berlin. <br>
-I'm a versatile Software Developer with a background in Social Science, Market Research, Project Management, and Customer Acquisition, driven by curiosity, adaptability, and a collaborative mindset. I bring a diverse skill set and a wide-ranging perspective to software development.
+<p>My name is <strong>Jacek</strong>. I'm a <strong>Full Stack Web Developer</strong> based in Berlin. 
+<br>
+I'm  driven by curiosity, adaptability, and a collaborative mindset.
+With a background in Social Science, Market Research, Customer Acquisition, and Project Management I bring a diverse skill set and a wide-ranging perspective to software development.
 </p>
 
 ## You can find me on:
 
-<a  href="https://www.linkedin.com/in/jacekroszkowiak"  rel="nofollow"> <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/LinkedIN_white.png" alt="Linkedin"></a>
+<a  href="https://www.linkedin.com/in/jacekroszkowiak"  rel="nofollow"> <img width="50" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/LinkedIN_white.png" alt="Linkedin"></a>
 
-<a href="https://https://www.instagram.com/jroszko" rel="nofollow"><img src="[http://tazindaniels.com/wp-content/uploads/2014/10/instagram-transparent.png](https://github.com/gauravghongde/social-icons/tree/master/PNG/WhiteFins)" alt="Instagram"></a>
+<a href="https://https://www.instagram.com/jroszko" rel="nofollow"><img width="50" src="(https://github.com/gauravghongde/social-icons/tree/master/PNG/WhiteFins)" alt="Instagram"></a>
 
 ## </a>Technologies &amp; Tools:</h2>
 
