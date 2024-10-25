@@ -11,41 +11,40 @@ With a background in Social Science, Market Research, Customer Acquisition, and 
 
 <h3>Technologies &amp; Tools:</h3>
 
-<picture><img width="50" src="./img/typescript.png" alt="TypeScript" title="TypeScript"/></picture>
-<picture><img width="50" src="./img/javascript.png" alt="JavaScript" title="JavaScript"/></picture>
-<br>
-<picture><img width="50" src="./img/nodeJS.png" alt="Node.js" title="Node.js"/></picture>
-<picture><img width="50" src="./img/expressJS.png" alt="Express" title="Express"/></picture>
-<picture><img width="50" src="./img/nestJS.png" alt="Nest.js" title="Nest.js"/></picture>
-<picture><img width="50" src="./img/rest.png" alt="REST" title="REST"/></picture>
-<picture><img width="50" src="./img/postman.png" alt="Postman" title="Postman"/></picture>
-<br>
-<picture><img width="50" src="./img/mongodb.png" alt="mongoDB" title="mongoDB"/></picture>
-<picture><img width="50" src="./img/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></picture>
-<br>
+<img src="./img/typescript.png" alt="TypeScript" width="50" height="50" />
+<img src="./img/javascript.png" alt="JavaScript" width="50" height="50" />
 
-<picture><img width="50" src="./img/react.png" alt="React" title="React"/>
-<picture><img width="50" src="./img/vue.png" alt="Vue.js" title="Vue.js"/></picture>
-<picture><img width="50" src="./img/redux.png" alt="Redux" title="Redux"/></picture>
-<picture><img width="50" src="./img/html5.png" alt="HTML" title="HTML"/></picture>
-<picture><img width="50" src="./img/css3.png" alt="CSS" title="CSS"/></picture>
-<picture><img width="50" src="./img/sass.png" alt="Sass" title="Sass"/></picture>
-<picture><img width="50" src="./img/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS"/></picture>
-<picture><img width="50" src="./img/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></picture>
-<br>
-<picture><img width="50" src="./img/git.png" alt="Git" title="Git"/></picture>
-<picture><img width="50" src="./img/github.png" alt="GitHub" title="GitHub"/></picture>
-<picture><img width="50" src="./img/gitlab.png" alt="GitLab" title="GitLab"/></picture>
-<picture><img width="50" src="./img/jira.png" alt="Jira" title="Jira"/></picture>
-<picture><img width="50" src="./img/jest.png" alt="Jest" title="Jest"/></picture>
-<picture><img width="50" src="./img/docker.png" alt="Docker" title="Docker"/></picture>
-<picture><img width="50" src="./img/grafana.png" alt="Grafana" title="Grafana"/></picture>
-<picture><img width="50" src="./img/prometheus.png" alt="Prometheus" title="Prometheus"/></picture>
-<picture><img width="50" src="./img/npm.png" alt="npm" title="npm"/></picture>
-<picture><img width="50" src="./img/bash.png" alt="bash" title="bash"/></picture>
-<picture><img width="50" src="./img/VScode.png" alt="Visual Studio Code" title="Visual Studio Code"/></picture>
-<br>
-<picture><img width="50" src="./img/windows.png" alt="Windows" title="Windows"/></picture>
-<picture><img width="50" src="./img/linux.png" alt="Linux" title="Linux"/></picture>
-<picture><img width="50" src="./img/swagger.png" alt="Swagger" title="Swagger"/></picture>
-<picture><img width="50" src="./img/drawIO.png" alt="Swagger" title="DrawIO"/></picture>
+<img src="./img/nodejs.png" alt="Node.js" width="50" height="50" />
+<img src="./img/expressjs.png" alt="Express" width="50" height="50" />
+<img src="./img/nestjs.png" alt="Nest.js" width="50" height="50" />
+<img src="./img/rest.png" alt="REST" width="50" height="50" />
+<img src="./img/postman.png" alt="Postman" width="50" height="50" />
+
+<img src="./img/mongodb.png" alt="MongoDB" width="50" height="50" />
+<img src="./img/postgresql.png" alt="PostgreSQL" width="50" height="50" />
+
+<img src="./img/react.png" alt="React" width="50" height="50" />
+<img src="./img/vue.png" alt="Vue.js" width="50" height="50" />
+<img src="./img/redux.png" alt="Redux" width="50" height="50" />
+<img src="./img/html5.png" alt="HTML5" width="50" height="50" />
+<img src="./img/css3.png" alt="CSS3" width="50" height="50" />
+<img src="./img/sass.png" alt="Sass" width="50" height="50" />
+<img src="./img/tailwindcss.png" alt="Tailwind CSS" width="50" height="50" />
+<img src="./img/bootstrap.png" alt="Bootstrap" width="50" height="50" />
+
+<img src="./img/git.png" alt="Git" width="50" height="50" />
+<img src="./img/github.png" alt="GitHub" width="50" height="50" />
+<img src="./img/gitlab.png" alt="GitLab" width="50" height="50" />
+<img src="./img/jira.png" alt="Jira" width="50" height="50" />
+<img src="./img/jest.png" alt="Jest" width="50" height="50" />
+<img src="./img/docker.png" alt="Docker" width="50" height="50" />
+<img src="./img/grafana.png" alt="Grafana" width="50" height="50" />
+<img src="./img/prometheus.png" alt="Prometheus" width="50" height="50" />
+<img src="./img/npm.png" alt="npm" width="50" height="50" />
+<img src="./img/bash.png" alt="Bash" width="50" height="50" />
+<img src="./img/vscode.png" alt="Visual Studio Code" width="50" height="50" />
+
+<img src="./img/windows.png" alt="Windows" width="50" height="50" />
+<img src="./img/linux.png" alt="Linux" width="50" height="50" />
+<img src="./img/swagger.png" alt="Swagger" width="50" height="50" />
+<img src="./img/drawio.png" alt="DrawIO" width="50" height="50" />
