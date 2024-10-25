@@ -5,26 +5,27 @@ I'm  driven by curiosity, adaptability, and a collaborative mindset.
 With a background in Social Science, Market Research, Customer Acquisition, and Project Management I bring a diverse skill set and a wide-ranging perspective to software development.
 </p>
 
-## You can find me on:
+<h3>You can find me on:</h3>
 
 <a  href="https://www.linkedin.com/in/jacekroszkowiak"  rel="nofollow"> <img width="50" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="Linkedin"></a> <a href="https://www.instagram.com/jroszko" rel="nofollow"> <img width="50" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="Instagram"></a>
 
-## </a>Technologies &amp; Tools:</h2>
+<h3>Technologies &amp; Tools:</h3>
 
-<picture><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></picture>
-<picture><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></picture>
+<picture><img width="50" src="./img/typescript.png" alt="TypeScript" title="TypeScript"/></picture>
+
+<picture><img width="50" src="./img/javascript.png" alt="JavaScript" title="JavaScript"/></picture>
 <br>
-<picture><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></picture>
-<picture><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></picture>
-<picture><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" alt="Nest.js" title="Nest.js"/></picture>
-<picture><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></picture>
-<picture><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></picture>
-<picture><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></picture>
+<picture><img width="50" src="./img/nodeJS.png" alt="Node.js" title="Node.js"/></picture>
+<picture><img width="50" src="./img/expressJS.png" alt="Express" title="Express"/></picture>
+<picture><img width="50" src="./img/nestJS.png" alt="Nest.js" title="Nest.js"/></picture>
+<picture><img width="50" src="./img/rest.png" alt="REST" title="REST"/></picture>
+<picture><img width="50" src="./img/postman.png" alt="Postman" title="Postman"/></picture>
 <br>
-<picture><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></picture>
-<picture><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></picture>
+<picture><img width="50" src="./img/mongodb.png" alt="mongoDB" title="mongoDB"/></picture>
+<picture><img width="50" src="./img/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></picture>
 <br>
-<picture><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
+
+<!-- <picture><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
 <picture><img width="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/></picture>
 <picture><img width="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/></picture>
 <picture><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></picture>
@@ -49,6 +50,4 @@ With a background in Social Science, Market Research, Customer Acquisition, and 
 <picture><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></picture>
 <picture><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></picture>
 <br>
-<picture><img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/></picture>
-
-
+<picture><img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/></picture> -->
