@@ -1,5 +1,5 @@
 <h2>Hi there</h2>
-<p>My name is <strong>Jacek</strong>. I'm a <strong>Full Stack Web Developer</strong> based in Berlin. 
+<p>My name is <strong>Jacek</strong>. I'm a <strong>Full Stack Web Developer</strong> based in Berlin.
 <br>
 I'm driven by curiosity, adaptability, and a collaborative mindset. With a background in Social Science, Market Research, Customer Acquisition, and Project Management, I bring a diverse skill set and a wide-ranging perspective to software development, enabling me to tackle challenges creatively and work effectively within teams.
 </p>
